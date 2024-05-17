@@ -1,5 +1,13 @@
 <h2>Hi, I'm Cleber!</h2>
-<div style="display:flex";justify-content:center>
+
+  <div style="display:flex";justify-content:center>
+
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberjunio&show_icons=true&theme=merko)
+ 
+ </div>
+ 
+
+
 
  
 
