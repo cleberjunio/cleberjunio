@@ -1,11 +1,7 @@
 <h2>Hi, I'm Cleber!</h2>
 <div style="display:flex";justify-content:center>
 
-  <img style="width:35vw;height:32vh" src="https://c.tenor.com/jM0aoM8e-iEAAAAM/web-developer-mycrxn.gif"/>
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberjunio&show_icons=true&theme=merko)</div>
  
-
 
 * * *
 
